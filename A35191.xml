@@ -1,0 +1,383 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The heroick history of Guy Earl of Warwick written by Hvmphrey Crovch.</title>
+            <author>Crouch, Humphrey, fl. 1635-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2003-11">2003-11 (EEBO-TCP Phase 1).</date>
+            <idno type="DLPS">A35191</idno>
+            <idno type="STC">Wing C7282</idno>
+            <idno type="STC">ESTC R2154</idno>
+            <idno type="EEBO-CITATION">12629053</idno>
+            <idno type="OCLC">ocm 12629053</idno>
+            <idno type="VID">64715</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Creative
+	       Commons 0 1.0 Universal</ref>. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 1, no. A35191)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64715)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 709:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The heroick history of Guy Earl of Warwick written by Hvmphrey Crovch.</title>
+                  <author>Crouch, Humphrey, fl. 1635-1671.</author>
+               </titleStmt>
+               <extent>[24] p. : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Brewster, and are to be sold by John Williamson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Guy, --  Earl of Warwick.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2003-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2003-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2003-08</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2003-08</date>
+            <label>Emma (Leeson) Huber</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2003-10</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64715:1"/>
+            <pb facs="tcp:64715:1"/>
+            <p>THE HEROICK HISTORY OF Guy <hi>Earl of</hi> Warwick. Written by <hi>HUMPHREY CROUCH.</hi>
+            </p>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Edward Brewster,</hi> and are to be sold by <hi>Iohn Williamson</hi> at the Sun and Bible on <hi>London</hi>-Bridg. 1673.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:64715:2"/>
+            <pb facs="tcp:64715:2"/>
+            <head>THE Heroick History OF <hi>Guy</hi> Earl of <hi>Warwick.</hi>
+            </head>
+            <lg>
+               <l>OF Noble <hi>Guy,</hi> I here will speak,</l>
+               <l>A Champion bold and stout,</l>
+               <l>Who evermore would help the weak,</l>
+               <l>And beat the strongest out;</l>
+               <l>Distressed Ladies, help would he</l>
+               <l>And Captives bound in Chains,</l>
+               <l>And wronged Knights from Tyrants free,</l>
+               <l>True love was all his gains;</l>
+               <l>And all was for fair <hi>Phelice</hi> sake,</l>
+               <l>He ventured life and limb;</l>
+               <l>Who made the stoutest Champion quake</l>
+               <l>That durst encounter him.</l>
+               <l>The Earl of <hi>Warwick</hi>'s Daughter hight,</l>
+               <l>Was <hi>Phelice</hi> tall and trim;</l>
+               <l>The Flower of <hi>England</hi> for delight;</l>
+               <l>Too high of Birth for him.</l>
+               <l>
+                  <pb facs="tcp:64715:3"/>For he was but, as I may say,</l>
+               <l>Her fathers Steward's son;</l>
+               <l>Yet <hi>Venus</hi> Laws he must obey,</l>
+               <l>When <hi>Guy</hi> had honour won.</l>
+               <l>Why then, quoth she, go forth brave Youth,</l>
+               <l>And make thy self more known;</l>
+               <l>And when my father hears the truth,</l>
+               <l>Take <hi>Phelice</hi> for thine own.</l>
+               <l>Win honour by thy Martial hand,</l>
+               <l>And by a warlike life;</l>
+               <l>When this I come to understand,</l>
+               <l>Take <hi>Phelice</hi> for thy wife.</l>
+               <l>
+                  <hi>Phelice</hi> I ask no more; said he,</l>
+               <l>Call <hi>Guy</hi> a Coward-Swain,</l>
+               <l>If he refuse to fight for thee</l>
+               <l>Thy love for to obtain.</l>
+               <l>O wo to him that counts it good,</l>
+               <l>That doth procure his care;</l>
+               <l>Who wins a wife with loss of blood,</l>
+               <l>Doth buy his bargain dear.</l>
+               <l>Yet whilst he hath a drop to bleed,</l>
+               <l>
+                  <hi>Guy</hi> will not idle lie;</l>
+               <l>Performing many a worthy deed,</l>
+               <l>And Acts of Chivalry.</l>
+               <l>In <hi>France</hi> he prov'd himself a man,</l>
+               <l>Unhors'd them one by one;</l>
+               <l>He there cast down both horse and man,</l>
+               <l>And fame and honour won;</l>
+               <l>He then to <hi>England</hi> comes amain;</l>
+               <l>To see his hearts-delight;</l>
+               <l>But <hi>Phelice</hi> sends him forth again,</l>
+               <l>Since he so well could fight;</l>
+               <l>To fight for her he would not grutch,</l>
+               <l>Whom he esteemed dear;</l>
+               <l>Because he loved her so much,</l>
+               <l>No danger did he fear.</l>
+               <l>
+                  <pb facs="tcp:64715:3"/>No danger may he fear that strives</l>
+               <l>To win a Ladies Love;</l>
+               <l>And howsoe're the business thrives</l>
+               <l>Obedient he must prove.
+<figure/>
+               </l>
+               <l>He takes his leave once more, and goes,</l>
+               <l>Her pleasure to fulfill:</l>
+               <l>He longs to be a dealing blows</l>
+               <l>To win more honour still:</l>
+               <l>And through a Forrest as he rides,</l>
+               <l>He meets a mighty Gyant,</l>
+               <l>
+                  <pb facs="tcp:64715:4"/>Two yards at every step he strides,</l>
+               <l>Far stronger than a Lion;</l>
+               <l>Friend, quoth the Gyant, hast thou heard</l>
+               <l>Of one, they call him <hi>Guy,</hi>
+               </l>
+               <l>Who all the power of <hi>France</hi> hath fear'd</l>
+               <l>With acts of Chivalry?</l>
+               <l>And what of him, Sir <hi>Guy</hi> then said?</l>
+               <l>Perhaps I am the man;</l>
+               <l>Of Gyants he was ne're afraid,</l>
+               <l>Do all the best they can.</l>
+               <l>Oh! quoth the Gyant, art thou he</l>
+               <l>With whom I long to fight?</l>
+               <l>Thy honour doth belong to me,</l>
+               <l>I claim it as my right.</l>
+               <l>Then pull'd a tree up by the roots,</l>
+               <l>And heav'd it up on high;</l>
+               <l>In Iron Coat, and Brazen Boots,</l>
+               <l>He marched towards <hi>Guy.</hi>
+               </l>
+               <l>Quoth <hi>Guy,</hi> thou art a simple Clown,</l>
+               <l>I'le quickly make thee mine:</l>
+               <l>I'le pull thy lofty courage down,</l>
+               <l>My honour still shall shine.</l>
+               <l>With that he hit him a strong blow,</l>
+               <l>From a well-guided hand,</l>
+               <l>And cut off mighty <hi>Rumbo</hi>'s toe,</l>
+               <l>That he could hardly stand</l>
+               <l>Then <hi>Rumbo</hi> heav'd his Tree on high,</l>
+               <l>Thinking his bones to break,</l>
+               <l>And struck at <hi>Guy</hi> most furiously,</l>
+               <l>Which made the ground to shake.</l>
+               <l>Before he heav'd his Tree again,</l>
+               <l>
+                  <hi>Guy</hi> hit him on the head,</l>
+               <l>Thinking the Gyant had been slain,</l>
+               <l>He falling down for dead.</l>
+               <l>Hold, hold, (quoth he) I'le be thy slave,</l>
+               <l>So thou wilt save my life.</l>
+               <l>
+                  <pb facs="tcp:64715:4"/>Quoth <hi>Guy,</hi> such mercy thou shalt have,</l>
+               <l>To end this dreadful strife.</l>
+               <l>He made him swear he would be true,</l>
+               <l>And serve him as his Boy,</l>
+               <l>His Enemies for to subdue,</l>
+               <l>And all his Foes destroy.</l>
+               <l>He swore he would, and then did rise,</l>
+               <l>To lend Sir <hi>Guy</hi> his aid;</l>
+               <l>Whose <g ref="char:punc">▪</g>ugly looks, and saucer-eyes</l>
+               <l>Might make a man afraid.</l>
+               <l>They walked over Mountains high,</l>
+               <l>Through Vallies wide and long,</l>
+               <l>The Gyant <hi>Rumbo<g ref="char:punc">▪</g>
+                  </hi> with Sir <hi>Guy,</hi>
+               </l>
+               <l>And none could do them wrong.</l>
+               <l>At length they heard a mighty cry,</l>
+               <l>Which scar'd the Gyant so;</l>
+               <l>What cry is that, (quoth he) Sir <hi>Guy?</hi>
+               </l>
+               <l>No farther will I go.</l>
+               <l>
+                  <hi>Rumbo</hi> (quoth <hi>Guy</hi>) <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ush, do not faint;</l>
+               <l>I'le go what ere betide;</l>
+               <l>No fortune surely can he want</l>
+               <l>That hath courage on his side.</l>
+               <l>Close underneath a hill he found</l>
+               <l>A Lion with a Dragon met,</l>
+               <l>But <hi>Rumbo</hi> fell down in a swound,</l>
+               <l>And in a cold moist sweat.</l>
+               <l>Brave sport, (quoth <hi>Guy</hi>) fight on, quoth he,</l>
+               <l>And when you make an end,</l>
+               <l>Unto the weakest I will be</l>
+               <l>A true and trusty friend.</l>
+               <l>At length the Lion turn'd aside.</l>
+               <l>As if he would be gone;</l>
+               <l>Nay then (quoth <hi>Guy</hi>) have at your hide,</l>
+               <l>Dragon, I'le lay it on.</l>
+               <l>With that he draws his massie blade,</l>
+               <l>Unto the Dragon goes,</l>
+               <l>
+                  <pb facs="tcp:64715:5"/>
+                  <figure/>
+Like one that was no whit afraid,</l>
+               <l>But deals him manly blows.</l>
+               <l>Valiant <hi>Guy</hi> bestirs his hands,</l>
+               <l>The Dragon back did shrink,</l>
+               <l>The Gyant <hi>Rumbo</hi> quaking stands,</l>
+               <l>And knew not what to think.</l>
+               <l>
+                  <hi>Guy</hi> gets the Victory at last,</l>
+               <l>Which made great <hi>Rumbo</hi> glad;</l>
+               <l>He was full glad the fight was past,</l>
+               <l>For he before was sad.</l>
+               <l>The dreadful Lion <hi>Guy</hi> did greet,</l>
+               <l>When he to him did go,</l>
+               <l>And thankfully did lick his feet,</l>
+               <l>
+                  <pb facs="tcp:64715:5"/>Because he kill'd his foe</l>
+               <l>He follow<g ref="char:punc">▪</g>d him by his Horse side</l>
+               <l>It was his chief desire;</l>
+               <l>Till he no longer could abide,</l>
+               <l>Hunger forc'd him to retire.</l>
+               <l>
+                  <hi>Rumbo</hi> (quoth <hi>Guy</hi>) I see thou art</l>
+               <l>A Coward at the last,</l>
+               <l>Thou hast great strength, but little heart,</l>
+               <l>I know by what is past.</l>
+               <l>Master (quoth <hi>Rumbo</hi>) shall I speak,</l>
+               <l>And yet I now am loth:</l>
+               <l>Compar'd to me you are but weak,</l>
+               <l>Yet heart enough for both.</l>
+               <l>But you shall see my valour shown</l>
+               <l>Before that it be long;</l>
+               <l>I will not see you overthrown</l>
+               <l>Or suffer any wrong.</l>
+            </lg>
+            <figure/>
+            <p>
+               <hi>Phelice</hi> hearing <hi>Guy</hi> was at <hi>Lincoln,</hi> went to him, and being over-joyed that she had found him, clipt him in her arms, and said, Why, how now, Love, have you forgot to love? what, seek a dragon ere you come to me? <hi>Phe<g ref="char:EOLhyphen"/>lice,</hi> said <hi>Guy,</hi> the King himself complained of a most dreadful Dragon in <hi>Northumberland,</hi> that annoyed all the Country, killing men, women, and children, and he which will not obey his Soveraigns command, especially in a thing of so high concernment, is both a coward and
+<pb facs="tcp:64715:9"/>
+an ill affected member to the Common-wealth, <hi>Phelice</hi> I am thine, I bought thee with this price of blood. Dear Love, said <hi>Phelice,</hi> thou shalt never bleed more for me. So both agreed, they went to their royal fathers house, Earl <hi>Roband,</hi> who entertain'd him most nobly, and af<g ref="char:EOLhyphen"/>ter a few days they were married together with great joy, banqueting, and hearts-delight. The noble Earl <hi>Roband</hi> in the space of three weeks died, and left the Earldom to his son <hi>Guy,</hi> who was after made Earl of <hi>Warwick,</hi> he enjoyed his Earldom but a small time. And now growing in years bethinks himself, and oft would say. How many men have I made lifeless for the love of a woman, and spent my time in war and bloood, and not one tear shed for my sins; for Beauty have I run through the world in a Sea of blood; good God forgive me for it. Vain world, farwell, I go to mortifie a sinful man; and now I mean to take my journey, like a Pilgrim, to the holy Land, to see the place where my Saviour died for my sins, and the sins of the whole world. <hi>Phelice</hi> finding him discontented, begins to question him how he came into those melancholy fits; if I (quoth she) be the cause of it, I am not only sorry, but will endea<g ref="char:EOLhyphen"/>vour to mend what is in me amiss. No, dear Love (quoth <hi>Guy</hi>) nothing but my sins, my numberless sins, that is the cause of all my grief and sorrow. Ah <hi>Phelice,</hi> said he, for thy love <hi>I</hi> have made many a man bleed, and now, dear Love, do intend to take my journey to the Holy Land, and live and dye a Pilgrim: Here, take this Ring, and keep it as a pledg of my love to thee, and give me thine; and if ever <hi>I</hi> come again to <hi>England, I</hi> will send thee this Ring, that thou maist come and close up my dying eyes: <hi>Phelice,</hi> farwell, weep not, <hi>I</hi> now must go, thy heart is full of love, mine full of wo. So with abun<g ref="char:EOLhyphen"/>dance of tears betwixt them, he takes his journey, only with a staff in his hand, to the holy Land, and she as a
+<pb facs="tcp:64715:10"/>
+pensive widow, remains at home, giving alms at her door to all Pilgrims for his sake, enquiring of them ever<g ref="char:EOLhyphen"/>more, if they could tell her any news of him; but he not making himself known to any of them in all his travels, they could relate nothing of him to her. Many times when he returned from the holy Land, he hath received alms from her own hands; and she not knowing of him, he hath departed with tears in his eyes to his Cave, where he lived and dyed, as you shall understand hereafter.</p>
+            <figure/>
+            <p>
+               <pb facs="tcp:64715:10"/>Now <hi>Guy</hi> takes his journey towards the holy Land, passing through desarts and unfrequented places, full of danger; meeteth at last with a woful Wight, that unto sorrow was no stranger: An aged man having fifteen sons in bondage under the cruel Tyrant, or a barbarous Gyant, called <hi>Amarant,</hi> who retained them in his strong Castle, with many Knights, Gentlemen, and Ladies, be<g ref="char:EOLhyphen"/>sides. <hi>Guy</hi> questioning where, the old man directs him to the Castle. Lend me thy sword, quoth <hi>Guy,</hi> I'le lend my manhood all thy sons to free. So away he goes, and lays upon the gates, as one that says, He must and will come in. The Gyant was never so rouzed before, for no such knocking at, his gates had been: so he takes his Club and Keys, and cometh forth; Sirrah (quoth the Gyant) what business hast thou here? art thou come to feast the Crows about these walls, because thou hast molested me in this manner, with this Club will I beat out thy brains and dress thy flesh for the Crows to feed upon. You are very quarrelsom, Gyant, quoth <hi>Guy,</hi> and dangerous at the Club it seems you be: I have been better arm'd, though now I go thin; but do thy worst, here's a Weapon that must do me right. So draws his sword, salutes him with the same about his shoulders, head, and sides, in such manner, that the Gyant did not like the sport; but heav<g ref="char:EOLhyphen"/>ing his Club aloft in the air, said, now villain will I crush thee. But <hi>Guy</hi> was nimble to avoid the same, so on the ground he spent his stroke in vain. At length <hi>Amarant</hi> the Gyant grew thirsty and faint for want of drink, and asked leave of <hi>Guy</hi> to quench his thirst at the River. <hi>Guy</hi> gives him leave; then to work they fall again. At length <hi>Guy</hi> grew thirsty, and crayed leave to drink; but the churlish Gyant said, it was a mad-mans part to relieve his enemy. Well, said <hi>Guy,</hi> since thou art so hard-hearted in that wherein I used thee so kindly, thou shalt under<g ref="char:EOLhyphen"/>stand that it doth but whet my anger the more against
+<pb facs="tcp:64715:11"/>
+thee, and so shorten thy life sooner, I now disdain to drink. Bold Tyrant, take a taste of my good will, for now I b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gin my bloody bout, it is not that same Club will bear you out; with that he hit him on the head such a powerful stroke, that brought him with a vengeance down; then <hi>Guy</hi> set foot upon the Monsters brest, and hewed off his head, and takes his Keys, ands enters the Castle, where a most woful spectacle he be<g ref="char:EOLhyphen"/>held, tender Ladies in dark Dungeons fed with the flesh of their own husbands; them he released, and set at liberty; unbinds many Knights and Gentlemen, who for many years had been kept in bondage by this bloo<g ref="char:EOLhyphen"/>dy Tyrant; at length he came to an Iron gate, which he unlocks, where he found the old mans sons, being fifteen in number, who look'd like the Picture of death; some of them he found hang'd up by the middle, some by the thumbs, some hang'd up by the heels, with their heads downward; these he took down with great care, and delivered them to the old man their father, who with great joy and thankfulness would have kist <hi>Guy</hi>'s feet: but <hi>Guy</hi> took him up in his arms, delivered the keys to him, made him Master of the Castle, and so departed. Many a weary step travelled he ere he came to the holy land, whilst his beloved wife spent her days in great sor<g ref="char:EOLhyphen"/>row, often wishing her self with him, to be partner with him in all his sufferings. Many years continued he in the holy land, insomuch that all his friends thought him to be dead. At length desiring to see his own na<g ref="char:EOLhyphen"/>tive Country, where he intended to lay his bones, he took his journey homewards. No sooner was he arrived on the English shore, but he found his Country in great distress, the King of <hi>Denmark</hi> with a mighty Army was landed, threatning to destroy all with fire and sword; the King of <hi>Denmark</hi> had a mighty Gyant to his Cam<g ref="char:EOLhyphen"/>pion, so terrible to behold, that the <hi>English</hi> were afraid
+<pb facs="tcp:64715:11"/>
+of his very looks, slinging his Gantlet down with such pride and contempt, that worthy <hi>Guy</hi> could ill endure to hear said, The English were a cowardly Nation, that never a man durst answer him. <hi>Guy</hi> could con<g ref="char:EOLhyphen"/>tain himself no longer, but goes to the King, and tells him, that he will accept of the challenge, and desired his Majesty not to despair, for he would quickly make an end of <hi>Colbron</hi> that mighty Gyant. The King said unto him, Honest Palmer go, and God bless thee in this mighty work thou hast undertaken, and grant thee victo<g ref="char:EOLhyphen"/>ry over thine enemy. <hi>Amen,</hi> quoth <hi>Guy,</hi> and so goes from <hi>Winchester</hi>'s North-gate, to <hi>Hidemead,</hi> where he found this Monster of men, treading each step two yards of ground. Art thou the man, quoth <hi>Colbron,</hi> on whom the King hath ventured <hi>England's</hi> Crown, whereas all his Lords and Nobles I defie, and scorn to fight with such a slave as thee. Gyant, quoth <hi>Guy,</hi> manhood should ne<g ref="char:EOLhyphen"/>ver rail, a Soldiers Weapon best can tell his mind. Thus I begin, and therefore look about thee, if thou be beaten the <hi>Danes</hi> will flout thee. Then began a sharp and bloody fight between them, so that the people knew not what to think, at length <hi>Colbron</hi> through loss of blood began to faint, and say to <hi>Guy,</hi> Yeild thee brave <hi>English-man,</hi> and fight no longer. Villain, quoth <hi>Guy,</hi> I scorn thy cowardly fear, the King hath ventured <hi>England</hi> on my head; with that he lent him such a powerful blow, that brought the Gyant with a vengeance down. Great joy was there among the English.</p>
+            <figure/>
+            <p>But <hi>Guy</hi> passed away unknown to his Cave; within a while after he fell sick, and sent his Ring to his Wife, the Countess of <hi>Warwick,</hi> by a poor Palmer; who came and closed up his dying eyes, her self living but fifteen days after.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:64715:12"/>
+            <head>Books newly Printed for <hi>Edward Brewster,</hi> at the Crane in St. <hi>Pauls</hi> Church yard, 1673.</head>
+            <list>
+               <item>Mr. <hi>Ball's</hi> Catechism, large and small.</item>
+               <item>The Famous <hi>History</hi> of <hi>Guy</hi> Earl of <hi>Warwick.</hi>
+               </item>
+               <item>The delectable History of <hi>Reynard</hi> the Fox, both parts.</item>
+               <item>The Book of Graces.</item>
+               <item>The Gardiners Labyrinth.</item>
+               <item>The History of the Fryer and the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oy, both parts.</item>
+               <item>
+                  <hi>Robbin Hood and Little Iohn.</hi>
+               </item>
+               <item>The Doctrin of the Bible. 120</item>
+               <item>A Useful Table of Expences.</item>
+               <item>
+                  <hi>Moses</hi> revived: A Treatise proving, That it is not lawful<g ref="char:punc">▪</g> (and therefore sinful) for any man or woman to eat blood, <hi>viz.</hi> the life-blood of a<g ref="char:EOLhyphen"/>ny Creature. 80</item>
+               <item>Natural and Artificial Conclusions. 80</item>
+               <item>
+                  <hi>Rogers</hi> Righteous man's Evidence for Heaven. 120</item>
+               <item>Christian Advice to young and old, rich &amp; poor; which may serve as a Directory at hand ready to direct all persons almost in every condition, under 27 general useful heads; by <hi>Tho. Mocket.</hi>
+               </item>
+               <item>Mr. <hi>Tho Ford</hi>'s Sinner condemned of himself.</item>
+               <item>Scripture self evidence. 120</item>
+               <item>The last Will and Testament of <hi>Basil Valentine,</hi> Monk of the Order of St <hi>Bennet,</hi> &amp;c.</item>
+               <item>A Prospect of Divine Providence. by <hi>T. C.</hi> 80</item>
+               <item>The Apostolical History, containing the Acts, Labours, Travels, Sermons, Discourses, Miracles, Successes and Sufferings of the Holy Apostles from Christs Assention, to the destruction of <hi>Ierusalem</hi> by <hi>Titus.</hi> Fol.</item>
+            </list>
+            <p>
+               <pb facs="tcp:64715:13"/>
+               <figure/>
+            </p>
+            <pb facs="tcp:64715:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
